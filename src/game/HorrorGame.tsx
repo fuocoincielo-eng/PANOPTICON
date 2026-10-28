@@ -14,7 +14,7 @@ const initialHud: HudState = {
   fade: 0,
 };
 
-const ENGINE_BUILD = 51;
+const ENGINE_BUILD = 52;
 
 type BootStep = "terms" | "wifi" | "mic" | "cam" | "fiction" | "loading" | "off";
 
